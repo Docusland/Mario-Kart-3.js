@@ -14,6 +14,8 @@ Clone the repository or download it
 
 Open your terminal and inside the project folder, run :
 
+qsdqdqsdsq
+
 ```bash
   npm install
 ```
